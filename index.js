@@ -1,7 +1,7 @@
 const http = require('http');
 
 const hostname = '13.238.195.139'; // Your server ip address
-const port = 3000;
+const port = 8000;
 
 const server = http.createServer((req, res) => {
 
